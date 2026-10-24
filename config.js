@@ -1,1 +1,1 @@
-server: main_server
+server: feature_server
